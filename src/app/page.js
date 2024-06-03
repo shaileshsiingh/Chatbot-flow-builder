@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Head>
-        <title>Chatbot flow builder | BiteSpeed Frontend Task</title>
+        <title>Chatbot flow builder</title>
       </Head>
 
       <FlowBuilder />
